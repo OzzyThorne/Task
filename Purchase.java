@@ -93,15 +93,3 @@ public class Purchase
 	return numberBought;
 	}
 }
-/**
-题目与答案：
-
-1.变量groundCount、groundPrice、numberBought 分别代表什么？
-	答：groundCount和groundPrice是价格的两个组成部分。这里的价格是以「多少钱买多少个」的形式表示的。
-		groundCount是数量，groundPrice就是相对于这个数量的价格。
-		numberBought则是购买量。
-2.总结上述代码中出现的类的特点，如信息是如何传递的，越多越好。
-	答：
-3.你认为这个程序是用来做什么的？
-	答：这是一个总价计算器，输入商品的价格和购买的数量，输出总价。
-*/
