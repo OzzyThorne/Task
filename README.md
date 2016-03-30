@@ -16,7 +16,7 @@ https://github.com/OzzyThorne/Task/blob/master/Purchase.java  </br>
 	答：这是一个总价计算器，输入商品的价格和购买的数量，输出总价。</br>
 	</br>
 2.总结上述代码中出现的类的特点（如信息是如何传递的，越多越好）。</br>
-	答：一开始我想了半天都没想明白有什么特点，于是我就做了这样两件事：第一，从网上找了一个质数判断程序；第二，自己写了一个Purchase程序。为了表示区别，我把这两个程序的主类名称进行了修改，一个叫WebPrime，另一个叫MyPur，顾名思义，这分别是「网上找的质数判断程序」和「我写的Purchase程序」的含义。</br>
+	答：一开始我想了半天都没想明白有什么特点，于是我就做了这样两件事：第一，从网上找了一个质数判断程序；第二，自己写了一个Purchase程序。为了表示区别，我把这两个程序的主类名称进行了修改，一个叫WebPrime，另一个叫MyPur，地址如下：</br>
 	</br>
 	https://github.com/OzzyThorne/Task/blob/master/WebPrime.java </br>
 	https://github.com/OzzyThorne/Task/blob/master/MyPur.java </br>
