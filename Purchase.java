@@ -1,7 +1,5 @@
 import java.util.*;//应该为Scanner
-/**
-这个程序怎么没有main方法？？
-*/
+
 public class Purchase
 {
 	private String name;//字符串「名称」
@@ -59,12 +57,12 @@ public class Purchase
 			groundCount = keyboard.nextint();
 			groundPrice = keyboard.nextDouble();
 		}
-		System.out.println("");//字符串内容应该是「请输入购买量」
+		System.out.println("");//字符串内容应为「请输入购买量」
 		numberBought = keyboard.nextInt();
 		while (numberBought <=0 )
 		{
-			System.out.println("");//字符串内容应该是错误信息
-			System.out.println("");//字符串内容应该是「请输入购买量」
+			System.out.println("");//字符串内容应为错误信息
+			System.out.println("");//字符串内容应为「请输入购买量」
 			numberBought = keyboard.nextint();
 		}
 	}
@@ -75,7 +73,7 @@ public class Purchase
 		System.out.println("at " + groundCount + "for $" + groundPrice);//输出价格：「多少多少美刀，能卖到多少多少个」
 	}
 	
-	public String getName() //获得商品的名称
+	public String getName() //商品的名称
 	{
 		return name;
 	}
@@ -90,7 +88,7 @@ public class Purchase
 		return (groundPrice / groundCount);
 	}
 
-	public int getnumberBought()//获得购买量
+	public int getnumberBought()//购买量
 	{
 	return numberBought;
 	}
@@ -102,7 +100,7 @@ public class Purchase
 	答：groundCount和groundPrice是价格的两个组成部分。这里的价格是以「多少钱买多少个」的形式表示的。
 		groundCount是数量，groundPrice就是相对于这个数量的价格。
 		numberBought则是购买量。
-2.总结上述代码中出现的类的特点，如信息是如何传递的，越多越好
+2.总结上述代码中出现的类的特点，如信息是如何传递的，越多越好。
 	答：
 3.你认为这个程序是用来做什么的？
 	答：这是一个总价计算器，输入商品的价格和购买的数量，输出总价。
