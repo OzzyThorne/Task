@@ -21,5 +21,5 @@ https://github.com/OzzyThorne/Task/blob/master/Purchase.java  </br>
 	https://github.com/OzzyThorne/Task/blob/master/WebPrime.java </br>
 	https://github.com/OzzyThorne/Task/blob/master/MyPur.java </br>
 	</br>
-	我对Prime、Purchase、WebPrime、MyPur这四个程序进行比较后，立刻发现了不同之处：我写的程序只有一个主类和一个main方法，而考题中的程序和我从网上找的程序有多个类多个方法。后来我明白了，这就是所谓的「面向对象」的一大特点。</br>
+	我对Prime、Purchase、WebPrime、MyPur这四个程序进行比较后，立刻发现了不同之处：我写的程序只有一个主类和一个main方法，而考题中的程序和我从网上找的程序有多个类多个方法。查阅图书和网络资料之后，我明白了，这就是所谓的「面向对象」的一大特点。而我的思维方式还停留在初中学习Pascal时的思维逻辑，现在我知道这叫做「面向过程」。我想，「面向对象」就是上述代码中最大的特点吧。</br>
 		</br>
