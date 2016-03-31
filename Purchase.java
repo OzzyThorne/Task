@@ -67,7 +67,7 @@ public class Purchase
 		}
 	}
 	
-	public void writeOutput() //公共方法：输出
+	public void writeOutput() //输出
 	{
 		System.out.println(numberBought + " " + name);//输出：「买了多少个什么什么玩意」
 		System.out.println("at " + groundCount + "for $" + groundPrice);//输出价格：「多少多少美刀，能卖到多少多少个」
@@ -78,7 +78,7 @@ public class Purchase
 		return name;
 	}
 	
-	public double getTotalCost //计算总价（这里少了一对括号吧？）
+	public double getTotalCost //计算总价
 	{
 		return ((groundPrice / groundCount) * numberBought);
 	}
