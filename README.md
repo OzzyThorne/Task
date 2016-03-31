@@ -42,7 +42,7 @@ https://github.com/OzzyThorne/Task/blob/master/Prime.java  </br>
 </br>
 ## 第二题的答案：</br>
 </br>
-原程序：https://github.com/OzzyThorne/Task/blob/master/Purchase.java  </br>
+原程序（我加了一些注(tu)释(cao).）：https://github.com/OzzyThorne/Task/blob/master/Purchase.java  </br>
 </br>
 ### 1.变量groundCount、groundPrice、numberBought 分别代表什么？</br>
 答：</br>
