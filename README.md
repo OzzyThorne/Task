@@ -1,6 +1,6 @@
 # Answers
 第一题的答案：</br>
-<source lang="java">
+<source>
 import java.util.Scanner; 
 public class Prime
 {
