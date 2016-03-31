@@ -1,7 +1,6 @@
 # Answers
 第一题的答案：
-```import java.util.Scanner; 
-
+import java.util.Scanner; 
 public class Prime
 {
 	public static void main(String[] args)
@@ -33,8 +32,8 @@ public class Prime
 		else
 			System.out.println("您输入的数不为素数");
 	}
-}```
-
+}
+</br>
 已在此仓库中保存为Prime.java。地址如下：</br>
 </br>
 https://github.com/OzzyThorne/Task/blob/master/Prime.java  </br>
