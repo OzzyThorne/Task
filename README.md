@@ -5,7 +5,7 @@ https://github.com/OzzyThorne/Task/blob/master/Prime.java  </br>
 </br>
 第二题：</br>
 </br>
-原程序地址：https://github.com/OzzyThorne/Task/blob/master/Purchase.java  </br>
+原程序：https://github.com/OzzyThorne/Task/blob/master/Purchase.java  </br>
 </br>
 1.变量groundCount、groundPrice、numberBought 分别代表什么？</br>
 	答：groundCount和groundPrice是价格的两个组成部分。这里的价格是以「多少钱买多少个」的形式表示的。</br>
