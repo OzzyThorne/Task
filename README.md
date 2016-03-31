@@ -1,40 +1,38 @@
 # Answers
 第一题的答案：</br>
-<source>
-import java.util.Scanner; 
-public class Prime
-{
-	public static void main(String[] args)
-	{
-		Scanner reader = new Scanner(System.in);
-		System.out.println("请输入需要判断的整数");
-		
-		int x = reader.nextInt(), i = 2 , m ;
-		boolean n = true;
-		
-		if (x < 2)
+		import java.util.Scanner; 
+		public class Prime
 		{
-			n = false;
-		}
-		else
-		{
-			for (;i < x ;i = i+1)
+			public static void main(String[] args)
 			{
-				if(x % i == 0)
+				Scanner reader = new Scanner(System.in);
+				System.out.println("请输入需要判断的整数");
+				
+				int x = reader.nextInt(), i = 2 , m ;
+				boolean n = true;
+		
+				if (x < 2)
 				{
 					n = false;
-					break;
 				}
+				else
+				{
+					for (;i < x ;i = i+1)
+					{
+						if(x % i == 0)
+						{
+							n = false;
+							break;
+						}
+					}
+				}
+		
+				if (n == true)
+					System.out.println("您输入的数为素数");
+				else
+					System.out.println("您输入的数不为素数");
 			}
 		}
-		
-		if (n == true)
-			System.out.println("您输入的数为素数");
-		else
-			System.out.println("您输入的数不为素数");
-	}
-}
-</source>
 </br>
 已在此仓库中保存为Prime.java。地址如下：</br>
 </br>
