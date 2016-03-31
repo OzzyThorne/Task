@@ -1,7 +1,6 @@
 # Answers
 第一题的答案如下，</br>
 import java.util.Scanner; 
-
 public class Prime
 {
 	public static void main(String[] args)
