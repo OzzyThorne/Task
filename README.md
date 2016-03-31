@@ -1,6 +1,7 @@
 # Answers
 ## 第一题的答案：</br>
 <pre><code>import java.util.Scanner; 
+
 public class Prime
 {
 	public static void main(String[] args)
@@ -45,8 +46,7 @@ https://github.com/OzzyThorne/Task/blob/master/Prime.java  </br>
 </br>
 ### 1.变量groundCount、groundPrice、numberBought 分别代表什么？</br>
 答：</br>
-groundCount和groundPrice是价格的两个组成部分。这里的价格是以「多少钱买多少个」的形式输入的，然后在后面的方法中计算UnitCost和TotalCost。</br>
-groundCount是底量，groundPrice就是相对于这个底量的底价。</br>
+groundCount和groundPrice是价格的两个组成部分。这里的价格是以「多少钱买多少个」的形式输入的，groundCount是底量，groundPrice就是相对于这个底量的底价。然后在后面的方法中根据这两个变量来计算UnitCost和TotalCost。</br>
 numberBought则是购买量。</br>
 </br>
 ### 2.总结上述代码中出现的类的特点（如信息是如何传递的，越多越好）。</br>
