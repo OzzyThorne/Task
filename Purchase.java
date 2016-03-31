@@ -1,11 +1,11 @@
-import java.util.*;//应该为Scanner
+import java.util.*;
 
 public class Purchase
 {
 	private String name;//字符串「名称」
 	private double groundPrice;//双精度groundPrice
 	private int numberBought;//整型「数量」
-	private String name;
+	private String name;//这里重复了，而且少定义了一个groundCount。
 	
 	public void setName(String newName)//方法「设定名称」
 	{
