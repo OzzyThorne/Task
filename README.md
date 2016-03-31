@@ -1,5 +1,6 @@
 # Answers
-第一题的答案：
+第一题的答案：</br>
+<source lang="java">
 import java.util.Scanner; 
 public class Prime
 {
@@ -33,6 +34,7 @@ public class Prime
 			System.out.println("您输入的数不为素数");
 	}
 }
+</source>
 </br>
 已在此仓库中保存为Prime.java。地址如下：</br>
 </br>
