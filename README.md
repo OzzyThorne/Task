@@ -18,7 +18,9 @@ https://github.com/OzzyThorne/Task/blob/master/Prime.java  </br>
 	https://github.com/OzzyThorne/Task/blob/master/WebPrime.java </br>
 	https://github.com/OzzyThorne/Task/blob/master/MyPur.java </br>
 	</br>
-	我对Prime、Purchase、WebPrime、MyPur这四个程序进行比较后，立刻发现了不同之处：我写的程序只有一个主类和一个main方法，所有代码是按照要做的事情的过程一条线地写下来，而考题中的程序和我从网上找的程序有多个类多个方法，多个类和多个方法之间相互调用。查阅图书和网络资料之后，我明白了，这就是所谓的「面向对象」的一大特点，而我的思维方式还是初中学习Pascal时的。我想，「面向对象」就是上述代码中最大的特点吧。</br>
+	我对Prime、Purchase、WebPrime、MyPur这四个程序进行比较后，立刻发现了不同之处：我写的程序只有一个主类和一个main方法，所有代码是按照要做的事情的过程一条线地写下来，而考题中的程序和我从网上找的程序有多个类多个方法，一个方法只做一件特定的简单的事情，多个类和多个方法之间相互调用，协同完成整个程序。查阅图书和网络资料之后，我知道了，这就是所谓的「面向对象」的一大特点，而我的思维方式还是初中学习Pascal时的。</br>
+	</br>
+	萌新一枚，表示并不能发现更多的特点。我想，「面向对象」就是上述代码中我能发现的最大的特点吧。</br>
 		</br>
 3.你认为这个程序是用来做什么的？</br>
 	答：这是一个总价计算器，输入商品的价格和购买的数量，输出总价。</br>
